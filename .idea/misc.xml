@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/drawable/input_edit_text.xml" value="0.1" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/drawable/input_edittext.xml" value="0.1" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/drawable/radius.xml" value="0.1625" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/drawable/radius_login.xml" value="0.1795" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout-land/activity_main.xml" value="0.2689594356261023" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/activity_language_center.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/activity_main.xml" value="0.2988679352838745" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_blank.xml" value="0.19429347826086957" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_favourite_student.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_forgetpwd.xml" value="0.2988679352838745" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_home_language_center.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_home_student.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_login.xml" value="0.3046875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_notice_student.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_profile_language_center.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_profile_student.xml" value="0.31875" />
+        <entry key="..\:/UDDD/Ly Thuyet/FinalTerm/LanguageCenter/app/src/main/res/layout/fragment_sign_up.xml" value="0.31875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
